@@ -1,5 +1,5 @@
 {
-  "name": "crypto-pouch-update",
+  "name": "pouch-crypto",
   "version": "3.1.3",
   "description": "encrypted pouchdb/couchdb database",
   "main": "index.js",
