@@ -3,7 +3,7 @@ About
 
 Fork from [https://github.com/calvinmetcalf/crypto-pouch](https://github.com/calvinmetcalf/crypto-pouch)
 
-*Bug: After encrypted, Data cannot be synchronized to remoteDB`*
+*Bug: After encrypted, Data cannot be synchronized to remoteDB*
 
 Changed: Ignore more property `_revisions` in index.js file at line 18. Thanks [Tien Tran](https://github.com/tientran0019) for figured out this issue.
 
@@ -34,7 +34,7 @@ Usage
 This plugin is hosted on npm. To use in Node.js:
 
 ```bash
-npm install pouch-crypto
+npm install pouchdb-crypto
 ```
 
 API
