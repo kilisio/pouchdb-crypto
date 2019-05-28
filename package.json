@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-crypto",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "encrypted pouchdb/couchdb database",
   "main": "index.js",
   "scripts": {

@@ -3,7 +3,7 @@ About
 
 Fork from [https://github.com/calvinmetcalf/crypto-pouch](https://github.com/calvinmetcalf/crypto-pouch)
 
-*Bug: The ata cannot be synchronized to remoteDBd after was encrypted*
+*Bug: The data cannot be synchronized to remoteDBd when was encrypted*
 
 Changed: Ignore more property `_revisions` in index.js file at line 18. Thanks [Tien Tran](https://github.com/tientran0019) for figured out this issue.
 
