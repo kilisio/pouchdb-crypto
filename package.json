@@ -1,5 +1,5 @@
 {
-  "name": "crypto-pouch",
+  "name": "crypto-pouch-update",
   "version": "3.1.3",
   "description": "encrypted pouchdb/couchdb database",
   "main": "index.js",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/calvinmetcalf/crypto-pouch.git"
+    "url": "https://github.com/mantranit/crypto-pouch.git"
   },
   "keywords": [
     "pouchdb",
     "couchdb",
     "encrypted"
   ],
-  "author": "Calvin Metcalf",
+  "author": "Man Tran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/calvinmetcalf/crypto-pouch/issues"
+    "url": "https://github.com/mantranit/crypto-pouch/issues"
   },
-  "homepage": "https://github.com/calvinmetcalf/crypto-pouch",
+  "homepage": "https://www.mantran.net",
   "dependencies": {
     "chacha": "^2.1.0",
     "native-crypto": "^1.5.2",

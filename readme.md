@@ -1,3 +1,12 @@
+About
+===
+
+Fork from [https://github.com/calvinmetcalf/crypto-pouch](https://github.com/calvinmetcalf/crypto-pouch)
+
+*Bug: After encrypted, Data cannot be synchronized to remoteDB`*
+
+What I did: Ignore more property `_revisions` in index.js file at line 18
+
 crypto pouch [![Build Status](https://travis-ci.org/calvinmetcalf/crypto-pouch.svg)](https://travis-ci.org/calvinmetcalf/crypto-pouch)
 ===
 
